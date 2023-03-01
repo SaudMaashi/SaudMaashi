@@ -2,4 +2,6 @@
 
 I’m currently learning Flutter/Dart
 
-How to reach me: Instagram: derex_
+You can reach me:
+Instagram: derex_
+Twitter: saud_shi
