@@ -3,5 +3,7 @@
 I’m currently learning Flutter/Dart
 
 You can reach me:
+
 Instagram: derex_
-Twitter: saud_shi
+
+Twitter: i_derex
