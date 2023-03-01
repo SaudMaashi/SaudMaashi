@@ -2,7 +2,8 @@
 
 I’m currently learning Flutter/Dart
 
-You can reach me:
+You can reach me:"
+
 Instagram: derex_
 
 Twitter: i_derex
