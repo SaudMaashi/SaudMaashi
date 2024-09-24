@@ -2,7 +2,4 @@
 
 I’m currently learning Dart/Flutter
 
-You can reach me on:
-
-Email: saudm45q@gmail.com
-Instagram: derex_
+You can reach me at: saudm45q@gmail.com
