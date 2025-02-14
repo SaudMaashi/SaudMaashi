@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-Dart/Flutter developer
+Flutter developer
 
 I’m currently learning Web Development
 
