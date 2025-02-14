@@ -2,6 +2,6 @@
 
 Flutter developer
 
-I’m currently learning Web Development
+Currently learning Web Development
 
 You can reach me at: saudm45q@gmail.com
